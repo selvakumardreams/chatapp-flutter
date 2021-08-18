@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949498419913",
+    "project_id": "chatapp-f6059",
+    "storage_bucket": "chatapp-f6059.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949498419913:android:93c8a83b97a8903dc74b18",
+        "android_client_info": {
+          "package_name": "com.hopelabs.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949498419913-j1mtal4db14401gv1vrhd59kc89ettv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hopelabs.chatapp",
+            "certificate_hash": "570bc3b21cd21b9df5f14d525f595fc10034b122"
+          }
+        },
+        {
+          "client_id": "949498419913-9ldpmth6k6junsn6ffkhcg35pcdgpjn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr8j2fs4tSFbzMG22Aie6RXiVMe3iqyek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949498419913-9ldpmth6k6junsn6ffkhcg35pcdgpjn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
